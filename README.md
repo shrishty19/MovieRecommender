@@ -9,6 +9,15 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/MadhurDixit13/MovieRecommender/graphs/commit-activity) [![Contributors Activity](https://img.shields.io/github/commit-activity/m/MadhurDixit13/MovieRecommender)](https://github.com/MadhurDixit13/MovieRecommender/pulse) [![GitHub issues](https://img.shields.io/github/issues/MadhurDixit13/MovieRecommender.svg)](https://github.com/MadhurDixit13/MovieRecommender/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/MadhurDixit13/MovieRecommender.svg)](https://github.com/MadhurDixit13/MovieRecommender/pulls?q=is%3Apr+is%3Aclosed) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4127507.svg)](https://doi.org/10.5281/zenodo.4127507) [![Build Status](https://travis-ci.com/MadhurDixit13/MovieRecommender.svg?branch=master)](https://travis-ci.com/git-ankit/MovieRecommender) [![Code Coverage](https://github.com/MadhurDixit13/MovieRecommender/actions/workflows/codecov.yml/badge.svg)](https://github.com/MadhurDixit13/MovieRecommender/actions/workflows/codecov.yml)[![codecov](https://codecov.io/gh/MadhurDixit13/MovieRecommender/graph/badge.svg?token=9NGWAJ7BST)](https://codecov.io/gh/MadhurDixit13/MovieRecommender) [![GitHub release](https://img.shields.io/github/release/git-ankit/MovieRecommender.svg)](https://GitHub.com/git-ankit/MovieRecommenderreleases/) [![black](https://img.shields.io/badge/StyleChecker-black-purple.svg)](https://pypi.org/project/black/) 
 
 
+Discover Your Next Movie Night Gem!<br>
+Tired of endless scrolling, trying to find the perfect movie? 🍿<br>
+[](https://media.giphy.com/media/Lopx9eUi34rbq/giphy.gif)
+Say hello to our Movie Recommender! 🚀<br>
+Just tell us what type of movies you like, and we'll serve up a handpicked list of 10 must-watch movies tailored to your taste. No more movie-night dilemmas! 🎬<br>
+Save time, ditch the hassle, and let Movie Recommender do the work for you. Movie night has never been this easy and exciting! 🌟<br>
+Your perfect movie is just a click away. Get started now and make every movie night a hit! 👏<br>
+[](https://media.giphy.com/media/jwY84621p1hhnG0ANK/giphy.gif)
+
 ### Table of contents
 
 - [Project Plan](https://github.com/MadhurDixit13/MovieRecommender#project-3-plan).<br>
@@ -117,3 +126,6 @@ Refer to Wiki page [here](https://github.com/MadhurDixit13/MovieRecommender/wiki
 
 ### Bug? 🐛
 Raise a issue on this repository, we would love to look at it ❤️
+
+### License
+This project is under MIT License.
