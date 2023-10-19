@@ -51,7 +51,45 @@ Make sure you taste your own medicine first and take into account other peoples 
 
 
 ### Tech stack 👨‍💻
-- Python, Flask, HTML, CSS and JavaScript
+<details>
+<summary>Python</summary>
+
+Python is a high-level, general-purpose programming language known for its simplicity and readability. It's a widely used language for web development, data analysis, artificial intelligence, and more.
+
+![Python](https://media.giphy.com/media/2vnId4IaAjIGZd2EWC/giphy.gif)
+</details>
+
+<details>
+<summary>Flask</summary>
+
+Flask is a micro web framework written in Python. It's lightweight and easy to use for building web applications, making it an excellent choice for small to medium-sized projects.
+
+![Flask](https://uxwing.com/flask-logo-icon/)
+</details>
+
+<details>
+<summary>HTML</summary>
+
+HTML (Hypertext Markup Language) is the standard markup language for creating web pages and web applications. It's used for structuring the content on the web.
+
+![HTML](https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif)
+</details>
+
+<details>
+<summary>CSS</summary>
+
+CSS (Cascading Style Sheets) is a style sheet language used for describing the look and formatting of a document written in HTML. It's essential for web design and layout.
+
+![CSS](https://tenor.com/u23RTW46N0p.gif)
+</details>
+
+<details>
+<summary>JavaScript</summary>
+
+JavaScript is a versatile and widely used programming language for adding interactivity and dynamic behavior to web pages. It's essential for client-side web development.
+
+![JavaScript](https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif)
+</details>
 
 ### Requirements and Setup ⚙️
 
