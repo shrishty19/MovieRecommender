@@ -11,14 +11,14 @@
 
 ### Table of contents
 
--[Project Plan](https://github.com/MadhurDixit13/MovieRecommender#project-3-plan)
--[Video](https://github.com/MadhurDixit13/MovieRecommender#video-%EF%B8%8F)
--[Working](https://github.com/MadhurDixit13/MovieRecommender#working-)
--[Tech Stack](https://github.com/MadhurDixit13/MovieRecommender#tech-stack-)
--[Requirements and Setup](https://github.com/MadhurDixit13/MovieRecommender#requirements-and-setup-%EF%B8%8F)
--[Usage](https://github.com/MadhurDixit13/MovieRecommender#usage)
--[Documentation](https://github.com/MadhurDixit13/MovieRecommender#documentation-)
--[Bug]()
+-[Project Plan](https://github.com/MadhurDixit13/MovieRecommender#project-3-plan).
+-[Video](https://github.com/MadhurDixit13/MovieRecommender#video-%EF%B8%8F).
+-[Working](https://github.com/MadhurDixit13/MovieRecommender#working-).
+-[Tech Stack](https://github.com/MadhurDixit13/MovieRecommender#tech-stack-).
+-[Requirements and Setup](https://github.com/MadhurDixit13/MovieRecommender#requirements-and-setup-%EF%B8%8F).
+-[Usage](https://github.com/MadhurDixit13/MovieRecommender#usage).
+-[Documentation](https://github.com/MadhurDixit13/MovieRecommender#documentation-).
+-[Bug](https://github.com/MadhurDixit13/MovieRecommender#bug-)
 
 
 ### Project 3 Plan
