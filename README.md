@@ -11,12 +11,12 @@
 
 Discover Your Next Movie Night Gem!<br>
 Tired of endless scrolling, trying to find the perfect movie? 🍿<br>
-[](https://media.giphy.com/media/Lopx9eUi34rbq/giphy.gif)
+![Tired](https://media.giphy.com/media/Lopx9eUi34rbq/giphy.gif)
 Say hello to our Movie Recommender! 🚀<br>
 Just tell us what type of movies you like, and we'll serve up a handpicked list of 10 must-watch movies tailored to your taste. No more movie-night dilemmas! 🎬<br>
 Save time, ditch the hassle, and let Movie Recommender do the work for you. Movie night has never been this easy and exciting! 🌟<br>
 Your perfect movie is just a click away. Get started now and make every movie night a hit! 👏<br>
-[](https://media.giphy.com/media/jwY84621p1hhnG0ANK/giphy.gif)
+![Hurray](https://media.giphy.com/media/jwY84621p1hhnG0ANK/giphy.gif)
 
 ### Table of contents
 
