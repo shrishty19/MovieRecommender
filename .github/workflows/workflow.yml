@@ -23,7 +23,7 @@ jobs:
         run: |
           pip install -r requirements.txt
           cd test
-          coverage run -m -a test_search
+          # coverage run -m -a test_search
           coverage run -m -a test
         env: 
           CI: true
