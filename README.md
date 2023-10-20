@@ -13,7 +13,7 @@
 
 Discover Your Next Movie Night Gem!<br>
 Tired of endless scrolling, trying to find the perfect movie? 🍿<br><br>
-![](https://github.com/MadhurDixit13/MovieRecommender/blob/master/asset/Front-page.gif?raw=true)<br><br>
+![GIF](https://github.com/MadhurDixit13/MovieRecommender/blob/master/asset/Front-page.gif?raw=true)<br><br>
 
 # <b>Contents</b>
 
