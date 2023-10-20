@@ -18,7 +18,7 @@ Tired of endless scrolling, trying to find the perfect movie? 🍿<br><br>
 # <b>Contents</b>
 
 - [Introduction](https://github.com/MadhurDixit13/MovieRecommender#introduction-%EF%B8%8F)<br>
-- [Future Project Plan](https://github.com/MadhurDixit13/MovieRecommender#Future-project-plan-%EF%B8%8F)<br>
+- [Future Project Plan](https://github.com/MadhurDixit13/MovieRecommender#future-project-plan-%EF%B8%8F)<br>
 - [Video](https://github.com/MadhurDixit13/MovieRecommender#video-%EF%B8%8F)<br>
 - [Working](https://github.com/MadhurDixit13/MovieRecommender#working-)<br>
 - [Tech Stack](https://github.com/MadhurDixit13/MovieRecommender#tech-stack-)<br>
@@ -26,7 +26,7 @@ Tired of endless scrolling, trying to find the perfect movie? 🍿<br><br>
 - [Usage](https://github.com/MadhurDixit13/MovieRecommender#usage)<br>
 - [Documentation](https://github.com/MadhurDixit13/MovieRecommender#documentation-)<br>
 - [Bug](https://github.com/MadhurDixit13/MovieRecommender#bug-)<br>
-- [License](https://github.com/MadhurDixit13/MovieRecommender#license-!)
+- [License](https://github.com/MadhurDixit13/MovieRecommender#license-%EF%B8%8F)
 
 
 
@@ -146,7 +146,7 @@ Refer to Wiki page [here](https://github.com/MadhurDixit13/MovieRecommender/wiki
 ## Bug? 🐛
 Raise a issue on this repository, we would love to look at it ❤️
 
-## License !
+## License 👁️
 This project is under MIT License.
 - The MIT license explicitly grants users the right to reuse code for various purposes,hence for improval of future scope of the code we have added MIT license.
 - They include the original MIT license when distributing it. Allowing users to customize or adapt the code to meet their specific requirements.
