@@ -2,6 +2,8 @@
     A collaborative filtering based recommendation engine!
 
 
+
+
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/MadhurDixit13)
 
 
@@ -10,56 +12,73 @@
 
 
 Discover Your Next Movie Night Gem!<br>
-Tired of endless scrolling, trying to find the perfect movie? 🍿<br>
-![Tired](https://media.giphy.com/media/Lopx9eUi34rbq/giphy.gif)
+Tired of endless scrolling, trying to find the perfect movie? 🍿<br><br>
+![](https://github.com/MadhurDixit13/MovieRecommender/blob/master/asset/Front-page.gif?raw=true)<br><br>
+
+# <b>Contents</b>
+
+- [Introduction](https://github.com/MadhurDixit13/MovieRecommender#introduction)<br>
+- [Future Project Plan](https://github.com/MadhurDixit13/MovieRecommender#futureprojectplan)<br>
+- [Video](https://github.com/MadhurDixit13/MovieRecommender#video-%EF%B8%8F)<br>
+- [Working](https://github.com/MadhurDixit13/MovieRecommender#working-)<br>
+- [Tech Stack](https://github.com/MadhurDixit13/MovieRecommender#tech-stack-)<br>
+- [Requirements and Setup](https://github.com/MadhurDixit13/MovieRecommender#requirements-and-setup-%EF%B8%8F)<br>
+- [Usage](https://github.com/MadhurDixit13/MovieRecommender#usage)<br>
+- [Documentation](https://github.com/MadhurDixit13/MovieRecommender#documentation-)<br>
+- [Bug](https://github.com/MadhurDixit13/MovieRecommender#bug-)<br>
+- [License](https://github.com/MadhurDixit13/MovieRecommender#license-)
+
+
+
+## Introduction 👁️
+
 Say hello to our Movie Recommender! 🚀<br>
 Just tell us what type of movies you like, and we'll serve up a handpicked list of 10 must-watch movies tailored to your taste. No more movie-night dilemmas! 🎬<br>
 Save time, ditch the hassle, and let Movie Recommender do the work for you. Movie night has never been this easy and exciting! 🌟<br>
-Your perfect movie is just a click away. Get started now and make every movie night a hit! 👏<br>
+Your perfect movie is just a click away. Get started now and make every movie night a hit! 👏<br><br>
 ![Hurray](https://media.giphy.com/media/jwY84621p1hhnG0ANK/giphy.gif)
 
-### Table of contents
-
-- [Project Plan](https://github.com/MadhurDixit13/MovieRecommender#project-3-plan).<br>
-- [Video](https://github.com/MadhurDixit13/MovieRecommender#video-%EF%B8%8F).<br>
-- [Working](https://github.com/MadhurDixit13/MovieRecommender#working-).<br>
-- [Tech Stack](https://github.com/MadhurDixit13/MovieRecommender#tech-stack-).<br>
-- [Requirements and Setup](https://github.com/MadhurDixit13/MovieRecommender#requirements-and-setup-%EF%B8%8F).<br>
-- [Usage](https://github.com/MadhurDixit13/MovieRecommender#usage).<br>
-- [Documentation](https://github.com/MadhurDixit13/MovieRecommender#documentation-).<br>
-- [Bug](https://github.com/MadhurDixit13/MovieRecommender#bug-).<br>
 
 
-### Project 3 Plan
+
+## Future Project Plan 🔮
 
 (Please see [wiki](https://github.com/MadhurDixit13/MovieRecommender/wiki/Project-3-Plan) for detailed information.)
 
 Testing how good the Movie Recommender is :
 
-1. Pick 10-15 very famous movies.
-2. Make sure the movies have diversity based on genre, cast and production style.
-3. Show users a set of 10 randomly generated movies vs top 10 movies recommended by the Movie Recommender.
-4. Also ask the user how satisfied is he/she with the recommended movies.
-4. Collect your results and quantify them.
+1. Integration of youtube api to provide trailer for the recommended movies.
+2. Build a new feature that exhibits diversity across genres, casting choices, and production styles.
+3. Allow users to create account and access their account history for previously recommended movies.
 
-Note: Our system can be virtually uploaded to sites like [Code SandBox](https://codesandbox.io/), for easier testing.
+
+Note: Our system can be virtually tested through Github Actions inbuilt feature of build and test queries using python.
 
 Make sure you taste your own medicine first and take into account other peoples familiarity with the system before you design your tests.
 
 
-### Video ▶️ 
+## Video ▶️ 
 
-<a  href="https://youtu.be/OSjpryqI1RQ"><img height=150 width=500 alt="logo here" src="https://raw.githubusercontent.com/MadhurDixit13/MovieRecommender/master/asset/group12.png"/></a>
-
-
-
-### Working 📱
-![Demo](https://raw.githubusercontent.com/MadhurDixit13/MovieRecommender/master/asset/demo.gif)
+[![Watch the video](https://markdown-videos-api.jorgenkh.no/youtube/uYQ4t7GOEyU)](https://youtu.be/uYQ4t7GOEyU)
 
 
 
 
-### Tech stack 👨‍💻
+
+
+## Working 📱
+
+- Below working displays the system also evaluates movie attributes such as genre, cast, director, and user-generated reviews. 
+- By combining these user-specific data and film characteristics, the recommender system employs machine learning to generate tailored movie recommendations.
+- This enables users to discover new films that align with their individual tastes, making the movie-watching experience more enjoyable and engaging. 
+- Furthermore, recommender systems often employ a feedback loop, where users' interactions and feedback help refine the recommendations over time, ensuring that the suggestions remain relevant.
+
+![Demo](https://github.com/MadhurDixit13/MovieRecommender/blob/master/asset/Front-page.gif?raw=true)<br><br>
+
+
+
+
+## Tech stack 👨‍💻
 <details>
 <summary>Python</summary>
 
@@ -73,7 +92,7 @@ Python is a high-level, general-purpose programming language known for its simpl
 
 Flask is a micro web framework written in Python. It's lightweight and easy to use for building web applications, making it an excellent choice for small to medium-sized projects.
 
-![Flask](https://uxwing.com/flask-logo-icon/)
+![Flask](https://miro.medium.com/v2/resize:fit:679/0*Nh_pliddv1BFAx68.gif)
 </details>
 
 <details>
@@ -89,7 +108,7 @@ HTML (Hypertext Markup Language) is the standard markup language for creating we
 
 CSS (Cascading Style Sheets) is a style sheet language used for describing the look and formatting of a document written in HTML. It's essential for web design and layout.
 
-![CSS](https://tenor.com/u23RTW46N0p.gif)
+![CSS](https://alvaromontoro.com/images/blog/css-typewriter.gif)
 </details>
 
 <details>
@@ -100,7 +119,7 @@ JavaScript is a versatile and widely used programming language for adding intera
 ![JavaScript](https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif)
 </details>
 
-### Requirements and Setup ⚙️
+## Requirements and Setup ⚙️
 
 
 - python 3.5 +
@@ -113,19 +132,21 @@ JavaScript is a versatile and widely used programming language for adding intera
 - Install all required python packages
     `pip install -r requirements.txt `
 
-### Usage
+## Usage
 1. `cd Code/recommenderapp`
 2. `python3 app.py`
 
 ![Execution](https://raw.githubusercontent.com/MadhurDixit13/MovieRecommender/master/asset/execution.gif)
 
 
-### Documentation 📚
+## Documentation 📚
 Refer to Wiki page [here](https://github.com/MadhurDixit13/MovieRecommender/wiki/Documentation)
 
 
-### Bug? 🐛
+## Bug? 🐛
 Raise a issue on this repository, we would love to look at it ❤️
 
-### License
+## License
 This project is under MIT License.
+- The MIT license explicitly grants users the right to reuse code for various purposes,hence for improval of future scope of the code we have added MIT license.
+- They include the original MIT license when distributing it. Allowing users to customize or adapt the code to meet their specific requirements.
