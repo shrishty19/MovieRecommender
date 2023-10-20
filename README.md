@@ -43,8 +43,6 @@ Your perfect movie is just a click away. Get started now and make every movie ni
 
 ## Future Project Plan 🔮
 
-(Please see [wiki](https://github.com/MadhurDixit13/MovieRecommender/wiki/Project-3-Plan) for detailed information.)
-
 Testing how good the Movie Recommender is :
 
 1. Integration of youtube api to provide trailer for the recommended movies.
