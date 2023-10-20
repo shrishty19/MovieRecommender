@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 Ankit Tiwari,  Suraj Pawar, Amit Gheitya, and Jay Jagtap
+Copyright (c) 2023 Madhur Dixit, Atharv Kale, Tanvi Raut, and Kohav Yadav
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
