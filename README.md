@@ -17,8 +17,8 @@ Tired of endless scrolling, trying to find the perfect movie? 🍿<br><br>
 
 # <b>Contents</b>
 
-- [Introduction](https://github.com/MadhurDixit13/MovieRecommender#introduction)<br>
-- [Future Project Plan](https://github.com/MadhurDixit13/MovieRecommender#futureprojectplan)<br>
+- [Introduction](https://github.com/MadhurDixit13/MovieRecommender#introduction-%EF%B8%8F)<br>
+- [Future Project Plan](https://github.com/MadhurDixit13/MovieRecommender#futureprojectplan-%EF%B8%8F)<br>
 - [Video](https://github.com/MadhurDixit13/MovieRecommender#video-%EF%B8%8F)<br>
 - [Working](https://github.com/MadhurDixit13/MovieRecommender#working-)<br>
 - [Tech Stack](https://github.com/MadhurDixit13/MovieRecommender#tech-stack-)<br>
