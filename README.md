@@ -146,7 +146,7 @@ Refer to Wiki page [here](https://github.com/MadhurDixit13/MovieRecommender/wiki
 ## Bug? 🐛
 Raise a issue on this repository, we would love to look at it ❤️
 
-## License 👁️
+## License
 This project is under MIT License.
 - The MIT license explicitly grants users the right to reuse code for various purposes,hence for improval of future scope of the code we have added MIT license.
 - They include the original MIT license when distributing it. Allowing users to customize or adapt the code to meet their specific requirements.
