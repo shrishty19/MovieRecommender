@@ -205,7 +205,18 @@
 
 <script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" crossorigin="anonymous"></script>
-
+<script>
+    var apiKey = 'AIzaSyDOmLULdshD2BsYN1IamNdwRVVH1GVF_v4';
+    gapi.load('client', initYouTubeAPI);
+    function initYouTubeAPI() {
+        gapi.client.init({
+            apiKey: apiKey,
+            discoveryDocs: ["https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest"],
+        }).then(function () {
+            console.log('YouTube API initialized');
+        });
+    }
+</script>
 <script>
 
     $(document).ready(function () {
