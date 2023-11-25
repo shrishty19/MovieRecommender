@@ -366,6 +366,44 @@
                 }
             });
         });
+        function fetchYouTubeVideoLinks(movieTitle, cardBody) {
+
+            var request = gapi.client.youtube.search.list({
+                q: movieTitle + ' official trailer',
+                part: 'snippet',
+                type: 'video',
+                maxResults: 1,
+            });
+
+            request.execute(function (response) {
+                var videos = response.items;
+
+                if (videos.length > 0) {
+                    var trailersHeading = document.createElement('h5');
+                    //trailersHeading.textContent = 'Trailers:';
+                    cardBody.appendChild(trailersHeading);
+
+                    var trailersList = document.createElement('ul');
+
+                    videos.forEach(function (video) {
+                        var videoId = video.id.videoId;
+                        var videoLink = 'https://www.youtube.com/watch?v=' + videoId;
+
+
+                        var trailerItem = document.createElement('li');
+                        var youtubeLink = document.createElement('a');
+                        youtubeLink.href = videoLink;
+                        youtubeLink.target = '_blank';
+                        youtubeLink.textContent = 'Watch Trailer ';
+
+                        trailerItem.appendChild(youtubeLink);
+                        trailersList.appendChild(trailerItem);
+                    });
+
+                    cardBody.appendChild(trailersList);
+                }
+            });
+        }
 
         $('#feedback').click(function(){
             var myForm = $('fieldset');
