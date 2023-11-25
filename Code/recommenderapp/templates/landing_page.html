@@ -348,6 +348,8 @@
                         cardBody.appendChild(genre);
                         cardBody.appendChild(radioButtons);
 
+                        fetchYouTubeVideoLinks(element, cardBody);
+
                         card.appendChild(cardBody);
                         document.getElementById('predictedMovies').appendChild(card);
                         return card;
