@@ -252,6 +252,19 @@
                 select: function (event, ui) {
                     var ulList = $('#selectedMovies');
                     var li = $('<li/>').text(ui.item.value).appendTo(ulList);
+                    var removeButton = $('<button/>', {
+        text: 'Remove',
+        css: {
+            backgroundColor: 'red',
+            color: 'white',
+            border: 'none',
+            padding: '5px 10px',
+            margin: '5px',
+            borderRadius: '5px',
+            cursor: 'pointer'
+        },
+        click: function () { $(this).parent().remove(); }
+    }).appendTo(li);
                     $('#searchBox').val("");
                     return false;
                 },
