@@ -46,6 +46,7 @@
                     <label style="color:#ebe5e6; font-weight: bold;">Search Here</label>&nbsp;&nbsp;<input type="text" name="search" id="searchBox" />
                 </p>
                 <h2 style="color:#ebe5e6; font-size: 24px; font-weight: bold;">Selected movies:</h2>
+                <ul id="selectedMovies" class="list-unstyled">
                 <div class="card-container" id="selectedMovies">
                     {% for movie in training_data %}
                     <div class="card">
@@ -56,6 +57,7 @@
                     </div>
                     {% endfor %}
                 </div>
+            </ul>
                 <input type="button" class="btn btn-danger" name="predict" id="predict" value="Predict">
             </div>
             <div class="col-md-6">
